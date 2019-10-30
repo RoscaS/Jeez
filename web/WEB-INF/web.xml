@@ -9,8 +9,8 @@
 <!--        <servlet-class>HelloServlet</servlet-class>-->
 <!--    </servlet>-->
 <!--    <servlet>-->
-<!--        <servlet-name>arequestargs</servlet-name>-->
-<!--        <servlet-class>arequestargs</servlet-class>-->
+<!--        <servlet-name>RequestArgs</servlet-name>-->
+<!--        <servlet-class>RequestArgs</servlet-class>-->
 <!--    </servlet>-->
 
 
@@ -20,7 +20,7 @@
 <!--        <url-pattern>/HelloServlet</url-pattern>-->
 <!--    </servlet-mapping>-->
 <!--    <servlet-mapping>-->
-<!--        <servlet-name>arequestargs</servlet-name>-->
+<!--        <servlet-name>RequestArgs</servlet-name>-->
 <!--        <url-pattern>/a-request-args</url-pattern>-->
 <!--    </servlet-mapping>-->
 
